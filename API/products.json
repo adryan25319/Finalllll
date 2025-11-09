@@ -132,11 +132,4 @@
     "price": 129.99,
     "image": "Assets/NoiseCancellingMic.png"
   },
-  {
-    "id": 20,
-    "name": "Smart Light Bulb",
-    "description": "Color-changing LED bulb controllable via app.",
-    "price": 24.99,
-    "image": "Assets/SmartLightBulb.png"
-  }
 ]
